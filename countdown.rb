@@ -8,4 +8,6 @@ def countdown(seconds_to_midnight)
   "HAPPY NEW YEAR!"
 end
 
-def 
+def countdown_with_sleep
+  
+end 
